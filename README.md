@@ -6,11 +6,9 @@ The final dataset created with this code in my Kaggle account [here](https://www
 The code can be found in this [file](/spotipy-world-top50.py).
 
 ## Dataset features
-Every week, Spotify updates its Top-50 playlists for each country. This dataset includes every country list of the 45th week of 2023 (6th November - 12th November). There are 73 available countries.
+Every week, Spotify updates its Top-50 playlists for each country. There are 73 available countries.
 
 The dataset has a column for every musical aspect of each song, and also the name, country, artist and publication date of the track.
-
-*Data extracted from the Spotify Official API.*
 
 # Columns
 
